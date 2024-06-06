@@ -45,6 +45,9 @@ TypeScript is a powerful superset of JavaScript that adds optional static typing
          ] 
 ```
 7. Use tags to run a specific or collection of specs
+8. Run `npm run script` to create account with since parabank regularly refreshes it's database
+   user: demo
+   password demo123
 ```
 npm run test --TAGS="@test or @add"
 ```
