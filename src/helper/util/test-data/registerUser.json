@@ -1,0 +1,13 @@
+{
+    "firstName": "Devin",
+    "lastName": "Booker",
+    "address" :"7 Fiddle Street",
+    "city": "Oklahoma",
+    "state": "New Oklahoma",
+    "zipCode" : "20000",
+    "phoneNumber": "12500000",
+    "SSN": "8009876",
+    "userName": "user",
+    "password": "Pass123$",
+    "confirmPassword": "Pass123$"
+}
